@@ -26,6 +26,7 @@ var urlsToCache = [
 	'./webfonts/fa-solid-900.ttf',
 	'./webfonts/fa-solid-900.woff',
 	'./webfonts/fa-solid-900.woff2',
+	'./imgs/rubetania-gomes-icone-cartao-digital-v01.png',
 	'./imgs/mauricio-jun-ti-v02.png',
 	'./imgs/rubetania-gome-foto-perfil-01.png',
 	'./imgs/rubetania-gomes-background-01.png',
